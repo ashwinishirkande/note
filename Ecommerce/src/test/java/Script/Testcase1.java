@@ -29,6 +29,7 @@ public class Testcase1 extends Baseclass
 	 webdriverut.dubleclick(driver, ad.getAddbtn());
 	 ad.addtocartbutton();
 	 webdriverut.alertpopup(driver);
+	 System.out.println("hello");
 	
   }
 }
